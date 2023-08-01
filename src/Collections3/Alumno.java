@@ -1,7 +1,5 @@
 package Collections3;
 
-import java.util.Arrays;
-
 public class Alumno {
 	private String nombre;
 	private double[] notas;
